@@ -1,0 +1,10 @@
+
+„squid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(à„‘ùÿÿÿÿ8õ©¡Ò-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÂîŞæ8ÛšÃÄÒ-
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ùÑßùøÿÿÿÿ
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ü™Ö–üÿÿÿÿ8²¾¯ïÒ-
+~squid:UselessImportCheck"NRemove this unused import 'edu.csc413.calculator.operators.OpenParenOperator'.(½éş±ùÿÿÿÿ8ê…¥ÆÒ-
+j$squid:AssignmentInSubExpressionCheck"".Extract the assignment out of this expression.( ¬©şıÿÿÿÿ8²¾¯ïÒ-
+tsquid:S1450"XRemove the "tokenizer" field and declare it as a local variable in the relevant methods.(Õ¹—ëùÿÿÿÿ
+gsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾ÓåÁ

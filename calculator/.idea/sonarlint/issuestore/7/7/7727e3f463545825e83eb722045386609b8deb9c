@@ -1,0 +1,17 @@
+
+>squid:S21898""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(èĞúıÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+msquid:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(ÛÚ†­ùÿÿÿÿ
+nsquid:S3776."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¾¥îÙøÿÿÿÿ
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(êÂÏ¢
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÛÚ†­ùÿÿÿÿ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(§·˜€
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(êÂÏ¢
+msquid:S3457]"Q%n should be used in place of \n to produce the platform-specific line separator.(èĞúıÿÿÿÿ

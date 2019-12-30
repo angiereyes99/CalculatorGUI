@@ -1,0 +1,6 @@
+
+Lsquid:S1481")Remove this unused "calc" local variable.(¡çÀúùÿÿÿÿ8±Í¿áÒ-
+Vsquid:S1197"8Move the array designator from the variable to the type.(ÈšÉ÷8±Í¿áÒ-
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(â•±şÿÿÿÿ
+[squid:S1854"8Remove this useless assignment to local variable "calc".(¡çÀúùÿÿÿÿ8±Í¿áÒ-
+Osquid:S1068",Remove this unused "strBuild" private field.(•õşÿÿÿÿ8™Øş”Ò-
